@@ -1,6 +1,6 @@
 name: claude
 
-# Lane B (unattended) driver for {{PROJECT_NAME}}. Fires when the `claude-go`
+# Lane B (unattended) driver for ai-app-factory-hello-world-v3. Fires when the `claude-go`
 # label is applied to an issue, or on demand via workflow_dispatch.
 #
 # Lane discipline: issues carrying `lane:interactive` are meant to be driven
@@ -132,7 +132,7 @@ jobs:
           # progress-checklist comment is a far smaller cost than silently
           # losing PRs.
           track_progress: false
-          base_branch: "{{BASE_BRANCH}}"
+          base_branch: "main"
           prompt: |
             Implement issue #${{ steps.cfg.outputs.number }} in this repository.
 
