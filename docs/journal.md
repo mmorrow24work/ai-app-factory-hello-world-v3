@@ -19,12 +19,12 @@ Recomputed by `.github/scripts/journal-entry.sh` on every run.
 <!-- VELOCITY_START -->
 | Metric | Value |
 |---|---|
-| Issues with recorded metrics | 4 |
-| Successful runs | 4 |
-| Mean time per issue | 1m 03s |
-| Mean turns per issue | 18 |
-| Mean output tokens per issue | 3,489 |
-| Mean estimated cost per issue | $0.0525 |
+| Issues with recorded metrics | 5 |
+| Successful runs | 5 |
+| Mean time per issue | 1m 01s |
+| Mean turns per issue | 17 |
+| Mean output tokens per issue | 3,408 |
+| Mean estimated cost per issue | $0.0513 |
 <!-- VELOCITY_END -->
 
 ---
@@ -85,3 +85,16 @@ Recomputed by `.github/scripts/journal-entry.sh` on every run.
 - **Output Tokens:** 3661
 - **Estimated Cost:** $0.0550 (notional — see above)
 - **Run:** https://github.com/mmorrow24work/ai-app-factory-hello-world-v3/actions/runs/32145907997
+
+## 2026-08-18 — Issue #4: M3: about.html and README — trace who did what
+
+- **Result:** success
+- **PR:** —
+- **Milestone:** M3: About page and README
+- **Model:** claude-sonnet-5
+- **Execution Duration:** 56 seconds
+- **Turns:** 13
+- **Input Tokens:** 38
+- **Output Tokens:** 3085
+- **Estimated Cost:** $0.0464 (notional — see above)
+- **Run:** https://github.com/mmorrow24work/ai-app-factory-hello-world-v3/actions/runs/32146859403
