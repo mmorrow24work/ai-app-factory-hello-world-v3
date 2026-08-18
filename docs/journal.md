@@ -19,12 +19,12 @@ Recomputed by `.github/scripts/journal-entry.sh` on every run.
 <!-- VELOCITY_START -->
 | Metric | Value |
 |---|---|
-| Issues with recorded metrics | 0 |
-| Successful runs | 0 |
-| Mean time per issue | n/a |
-| Mean turns per issue | n/a |
-| Mean output tokens per issue | n/a |
-| Mean estimated cost per issue | n/a |
+| Issues with recorded metrics | 1 |
+| Successful runs | 1 |
+| Mean time per issue | 0m 46s |
+| Mean turns per issue | 14 |
+| Mean output tokens per issue | 2,404 |
+| Mean estimated cost per issue | $0.0362 |
 <!-- VELOCITY_END -->
 
 ---
@@ -33,3 +33,16 @@ Recomputed by `.github/scripts/journal-entry.sh` on every run.
 
 <!-- ENTRIES_START -->
 <!-- New entries are appended below this marker, newest last. -->
+
+## 2026-08-18 — Issue #3: M2: pytest suite — parse, required elements, relative-only local references
+
+- **Result:** success
+- **PR:** —
+- **Milestone:** M2: Tests
+- **Model:** claude-sonnet-5
+- **Execution Duration:** 46 seconds
+- **Turns:** 14
+- **Input Tokens:** 44
+- **Output Tokens:** 2404
+- **Estimated Cost:** $0.0362 (notional — see above)
+- **Run:** https://github.com/mmorrow24work/ai-app-factory-hello-world-v3/actions/runs/32133014016
